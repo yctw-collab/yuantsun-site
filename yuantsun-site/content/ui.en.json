@@ -1,0 +1,19 @@
+{
+  "nav": { "home": "Home", "products": "Products", "quality": "Quality & Certifications", "applications": "Applications", "about": "About", "news": "News", "contact": "Contact" },
+  "hero": {
+    "title": "Recycled Plastic Pellets | PP / PS / ABS / PE / PET",
+    "subtitle": "For injection molding—competitive pricing, consistent quality, and full batch traceability.",
+    "ctaQuote": "Request a Quote",
+    "ctaSample": "Request Samples"
+  },
+  "advantages": {
+    "title": "Built for stable injection molding supply",
+    "a1": { "t": "Competitive Pricing", "d": "Cost-effective recycled materials suitable for production demand." },
+    "a2": { "t": "Consistent Quality", "d": "Batch control and QC practices for predictable molding behavior." },
+    "a3": { "t": "Traceability", "d": "Batch/Source/QC records to reduce supply-chain risk." }
+  },
+  "materials": { "title": "Materials", "subtitle": "PP / PS / ABS / PE / PET with multiple SKUs tailored to your needs." },
+  "certs": { "title": "Quality & Certifications", "subtitle": "ISO 9001:2015 / TÜV / GRS" },
+  "cta": { "title": "Share your requirements", "subtitle": "Material, color, MFI, quantity, and lead time—we’ll reply shortly.", "button": "Go to Contact Form" },
+  "footer": { "company": "YuanTsun", "addr": "No. 2, Aly. 15, Ln. 22, Yuantan Rd., Yuanlin City, Changhua, Taiwan", "tel": "+886-4-8370099", "email": "company@yuantsun.com" }
+}

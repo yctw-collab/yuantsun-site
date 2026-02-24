@@ -1,0 +1,19 @@
+{
+  "nav": { "home": "首頁", "products": "產品", "quality": "品質與認證", "applications": "應用（射出）", "about": "關於我們", "news": "最新消息", "contact": "聯絡我們" },
+  "hero": {
+    "title": "再生塑膠粒供應｜PP / PS / ABS / PE / PET",
+    "subtitle": "專注射出用再生塑膠粒，價格具競爭力、品質一致、批次可追溯。",
+    "ctaQuote": "索取報價",
+    "ctaSample": "索取樣品"
+  },
+  "advantages": {
+    "title": "為射出製程打造的穩定供料",
+    "a1": { "t": "價格具競爭力", "d": "提供具市場競爭力的再生料方案，支援量產需求。" },
+    "a2": { "t": "品質一致", "d": "批次控管與檢測機制，讓射出成型更可控。" },
+    "a3": { "t": "可追溯", "d": "批號/來源/檢測紀錄可追溯，降低供應鏈風險。" }
+  },
+  "materials": { "title": "主要材質", "subtitle": "支援 PP / PS / ABS / PE / PET，多規格 SKU 可依需求供應。" },
+  "certs": { "title": "品質與認證", "subtitle": "ISO 9001:2015 / TÜV / GRS" },
+  "cta": { "title": "告訴我們你的需求", "subtitle": "材質、顏色、MI、數量與交期，我們會盡快回覆。", "button": "前往聯絡表單" },
+  "footer": { "company": "源○○（YuanTsung）", "addr": "彰化縣員林市源潭里4鄰源潭路22巷15弄2號", "tel": "04-8370099", "email": "company@yuantsun.com" }
+}
